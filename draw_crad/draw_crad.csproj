@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="cat_image.png" />
+    <None Remove="cat_image1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes.MahApps" Version="0.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="cat_image.png" />
+    <Resource Include="cat_image1.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/rS9wWP9wVIdsxCX9gGlV/oZUqaYHqAgz0ARrFM2SEoBDRJAs3sdufjCIDTpSV14uswo80b7hnTgy2nrpWuRgA==",
+  "success": true,
+  "projectFilePath": "E:\\桌面\\draw_crad\\draw_crad\\draw_crad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\49601\\.nuget\\packages\\controlzex\\4.3.0\\controlzex.4.3.0.nupkg.sha512",
+    "C:\\Users\\49601\\.nuget\\packages\\mahapps.metro\\2.0.0\\mahapps.metro.2.0.0.nupkg.sha512",
+    "C:\\Users\\49601\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\49601\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512",
+    "C:\\Users\\49601\\.nuget\\packages\\materialdesignthemes.mahapps\\0.2.5\\materialdesignthemes.mahapps.0.2.5.nupkg.sha512",
+    "C:\\Users\\49601\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\49601\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
